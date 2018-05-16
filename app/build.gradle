@@ -48,4 +48,7 @@ dependencies {
 
     // Test helpers for Room
 //    testImplementation "android.arch.persistence.room:testing:1.0.0"
+
+    // WorkManager
+    implementation "android.arch.work:work-runtime:1.0.0-alpha01"
 }
